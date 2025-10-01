@@ -13,17 +13,17 @@ const projects = [
     featured: true
   },
   {
-    title: "LuniChat",
+    title: "StarLens",
     description: "An innovative platform that leverages the power of Next.js and TypeScript to deliver a fast, type-safe, and maintainable application.",
-    tech: ["React.js", "MangoDb", "Socket.io"],
+    tech: ["React Native", "ConvexDB", "TypeScript", ""],
     github: "https://github.com/username/project2",
     demo: "https://project2.com",
     featured: true
   },
   {
-    title: "Project 3",
+    title: "Vibe WebApp",
     description: "A full-stack application showcasing modern development practices, clean architecture, and seamless integration with various APIs.",
-    tech: ["Python", "React", "PostgreSQL"],
+    tech: ["socket.io", "React", "MongoDB", "Express", "Nodejs"],
     github: "https://github.com/username/project3",
     demo: "https://project3.com",
     featured: false
