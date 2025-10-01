@@ -14,8 +14,8 @@ const projects = [
   },
   {
     title: "StarLens",
-    description: "CosmosConnect is a React Native social media application designed exclusively for astronomy and space lovers. Inspired by Instagram intuitive design, the app provides a dedicated platform where users can share, explore, and engage with breathtaking images of the cosmos.",
-    tech: ["React Native", "ConvexDB", "TypeScript", ""],
+    description: "StarLens is a React Native social media application designed exclusively for astronomy and space lovers. Inspired by Instagram intuitive design, the app provides a dedicated platform where users can share, explore, and engage with breathtaking images of the cosmos.",
+    tech: ["React Native", "ConvexDB", "TypeScript", "Expo"],
     github: "https://github.com/username/project2",
     demo: "https://project2.com",
     featured: true
