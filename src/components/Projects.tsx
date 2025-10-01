@@ -7,7 +7,7 @@ const projects = [
   {
     title: "PostFlow",
     description: "A modern social media platform built with cutting-edge technologies. Features include real-time updates, responsive design, and seamless user experience.",
-    tech: ["NextJs", "Nodejs", "NeonDb", "TypeScript"],
+    tech: ["NextJs", "Nodejs", "NeonDb", "TypeScript", "Tailwind", "shadcn/ui"],
     github: "https://github.com/Neko705/PortFolio-Nextjs",
     demo: "https://post-flow-next-js.vercel.app/",
     featured: true
@@ -15,7 +15,7 @@ const projects = [
   {
     title: "StarLens",
     description: "StarLens is a React Native social media application designed exclusively for astronomy and space lovers. Inspired by Instagram intuitive design, the app provides a dedicated platform where users can share, explore, and engage with breathtaking images of the cosmos.",
-    tech: ["React Native", "ConvexDB", "TypeScript", "Expo"],
+    tech: ["React Native", "ConvexDB", "TypeScript", "Expo", "Tailwind", "native-base", "expo-router"],
     github: "https://github.com/username/project2",
     demo: "https://project2.com",
     featured: true
